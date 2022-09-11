@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\bin\Debug\net6.0\hospedagem.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\bin\Debug\net6.0\hospedagem.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\bin\Debug\net6.0\hospedagem.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\bin\Debug\net6.0\hospedagem.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\bin\Debug\net6.0\hospedagem.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\refint\hospedagem.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\hospedagem.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\desafioHospedagem\hospedagem\obj\Debug\net6.0\ref\hospedagem.dll
